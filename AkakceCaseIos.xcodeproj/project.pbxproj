@@ -27,7 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D76C6F3C2A96EAD60025D1D0 /* TestProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D76C6F3C2A96EAD60025D1D0 /* AkakceCaseIos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AkakceCaseIos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D76C6F3F2A96EAD60025D1D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D76C6F412A96EAD60025D1D0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D76C6F432A96EAD60025D1D0 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
@@ -70,7 +70,7 @@
 		D76C6F3D2A96EAD60025D1D0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D76C6F3C2A96EAD60025D1D0 /* TestProject.app */,
+				D76C6F3C2A96EAD60025D1D0 /* AkakceCaseIos.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -159,9 +159,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D76C6F3B2A96EAD60025D1D0 /* TestProject */ = {
+		D76C6F3B2A96EAD60025D1D0 /* AkakceCaseIos */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D76C6F502A96EAD80025D1D0 /* Build configuration list for PBXNativeTarget "TestProject" */;
+			buildConfigurationList = D76C6F502A96EAD80025D1D0 /* Build configuration list for PBXNativeTarget "AkakceCaseIos" */;
 			buildPhases = (
 				D76C6F382A96EAD60025D1D0 /* Sources */,
 				D76C6F392A96EAD60025D1D0 /* Frameworks */,
@@ -171,9 +171,9 @@
 			);
 			dependencies = (
 			);
-			name = TestProject;
+			name = AkakceCaseIos;
 			productName = TestProject;
-			productReference = D76C6F3C2A96EAD60025D1D0 /* TestProject.app */;
+			productReference = D76C6F3C2A96EAD60025D1D0 /* AkakceCaseIos.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -204,7 +204,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D76C6F3B2A96EAD60025D1D0 /* TestProject */,
+				D76C6F3B2A96EAD60025D1D0 /* AkakceCaseIos */,
 			);
 		};
 /* End PBXProject section */
@@ -389,7 +389,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 65XPGFTBUQ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TestProject/Info.plist;
+				INFOPLIST_FILE = AkakceCaseIos/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -417,7 +417,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 65XPGFTBUQ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TestProject/Info.plist;
+				INFOPLIST_FILE = AkakceCaseIos/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -448,7 +448,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D76C6F502A96EAD80025D1D0 /* Build configuration list for PBXNativeTarget "TestProject" */ = {
+		D76C6F502A96EAD80025D1D0 /* Build configuration list for PBXNativeTarget "AkakceCaseIos" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D76C6F512A96EAD80025D1D0 /* Debug */,
